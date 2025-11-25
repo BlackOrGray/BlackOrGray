@@ -14,4 +14,4 @@ Fun Facts:
 
 
 If you enjoy coding, anime, or pretending we understand recursion, you’re in the right place.  
-Feel free to check out my repos, they’re like my digital playground.
+
