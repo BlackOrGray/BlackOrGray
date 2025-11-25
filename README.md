@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there 🥳
 
-<!--
-**BlackOrGray/BlackOrGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dai — a Computer Engineering major who loves mixing electrical sparks ⚡ with coding magic 💻  
+When I'm not debugging, I'm probably re‑debugging (because let's be honest, it never works the first time).
 
-Here are some ideas to get you started:
+ About Me:
+- Studying Computer Engineering (yes, I willingly signed up for both hardware and software headaches).
+- Professional bug collector (a.k.a. programmer).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts:
+•	Wynncraft > Hypixel (fight me)
+•	I love anime — it keeps me inspired, and sometimes I pretend my code has a dramatic plot twist
+•	Oregairu is my favorite anime 😺
+
+
+If you enjoy coding, anime, or pretending we understand recursion, you’re in the right place.  
+Feel free to check out my repos, they’re like my digital playground.
